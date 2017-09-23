@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EAC1–2017S1</string>
+    <!-- button descriptions -->
+    <string name="btn_desc_add">Add user</string>
+    <string name="btn_desc_cancel">Cancel</string>
+    <string name="btn_desc_edit">Edit</string>
+    <string name="btn_desc_remove">Remove</string>
+    <string name="btn_desc_dial">Dial</string>
+    <string name="btn_desc_view">View</string>
+    <!-- button texts -->
+    <string name="btn_txt_accept">ACCEPT</string>
+    <string name="btn_txt_cancel">CANCEL</string>
+    <string name="btn_txt_send">SEND</string>
+    <!-- labels -->
+    <string name="txt_user_name">Name and surname</string>
+    <string name="txt_street">Street:</string>
+    <string name="txt_zip_code">Zip Code:</string>
+    <string name="txt_town">Town:</string>
+    <string name="txt_phone_number">Phone Number:</string>
+    <string name="txt_web_page">Web Site:</string>
+    <string name="txt_address">Address</string>
+    <string name="txt_personal_data">Personal Data</string>
+    <!-- toasts -->
+    <string name="toast_warn_empty_user_name">You must write something!</string>
+    <string name="toast_info_data_sent">Data send!</string>
+    <string name="toast_error_missing_info">Error! You must fill all data</string>
+    <string name="toast_error_phone_number">\"Phone\" field is empty</string>
+    <string name="toast_error_web_page">Web Site is not informed or is invalid</string>
+    <!-- others -->
+    <string name="undefined_value">Value undefined</string>
+</resources>

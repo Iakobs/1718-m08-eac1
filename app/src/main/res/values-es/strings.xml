@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EAC1–2017S1</string>
+    <string name="btn_desc_add">Añadir usuario</string>
+    <string name="btn_desc_cancel">Cancelar</string>
+    <string name="btn_txt_send">ENVÍA</string>
+    <string name="txt_user_name">Nombre y Apellidos</string>
+    <string name="txt_street">Calle:</string>
+    <string name="txt_zip_code">Código Postal:</string>
+    <string name="txt_town">Población:</string>
+    <string name="txt_phone_number">Teléfono:</string>
+    <string name="txt_web_page">Página Web:</string>
+    <string name="txt_address">Dirección</string>
+    <string name="txt_personal_data">Datos Personales</string>
+    <string name="toast_warn_empty_user_name">¡Hay que escribir algo!</string>
+    <string name="toast_info_data_sent">¡Datos enviados!</string>
+    <string name="toast_error_missing_info">¡Error! Hay que rellenar todos los datos</string>
+    <string name="toast_error_phone_number">El campo \"teléfono\" está vacío</string>
+    <string name="toast_error_web_page">La página web no está informada o no es válida</string>
+    <string name="undefined_value">Valor no definido</string>
+    <string name="btn_txt_cancel">CANCELA</string>
+    <string name="btn_desc_edit">Edita</string>
+    <string name="btn_desc_remove">Borra</string>
+    <string name="btn_desc_dial">Marca</string>
+    <string name="btn_desc_view">Ves a</string>
+    <string name="btn_txt_accept">ACEPTA</string>
+</resources>

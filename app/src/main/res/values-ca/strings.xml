@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EAC1–2017S1</string>
+    <string name="btn_desc_add">Afegir usuari</string>
+    <string name="btn_desc_cancel">Cancel·lar</string>
+    <string name="btn_txt_send">ENVIA</string>
+    <string name="txt_user_name">Nom i Cognoms</string>
+    <string name="txt_street">Carrer:</string>
+    <string name="txt_zip_code">Codi Postal:</string>
+    <string name="txt_town">Població:</string>
+    <string name="txt_phone_number">Telèfon:</string>
+    <string name="txt_web_page">Pàgina Web:</string>
+    <string name="txt_address">Adreça</string>
+    <string name="txt_personal_data">Dades Personals</string>
+    <string name="toast_warn_empty_user_name">Heu d\'escriure quelcom!</string>
+    <string name="toast_info_data_sent">Dades enviades!</string>
+    <string name="toast_error_missing_info">Error! Has d\'emplenar totes les dades</string>
+    <string name="toast_error_phone_number">El camp \"telèfon\" està buit</string>
+    <string name="toast_error_web_page">L\'adreça web no està informada o no és vàlida</string>
+    <string name="undefined_value">Valor no definit</string>
+    <string name="btn_txt_cancel">CANCEL·LA</string>
+    <string name="btn_desc_edit">Edita</string>
+    <string name="btn_desc_remove">Esborra</string>
+    <string name="btn_desc_dial">Marca</string>
+    <string name="btn_desc_view">Vés a</string>
+    <string name="btn_txt_accept">ACCEPTA</string>
+</resources>
